@@ -1,2 +1,1 @@
-# Sancaktepe-Akademi
-Sancaktepe Game Development Academy için yaptığım projeler.
+Some mechanic prototypes that i developed
